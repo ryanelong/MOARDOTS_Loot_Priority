@@ -1,6 +1,6 @@
 # MOARDOTS_Loot_Priority
 
-This is a WoW Classic Addon for use by the Guild <MOAR DOTS> on the Kirtonos-US Server.
+This is a WoW Classic Addon for use by the Guild MOAR DOTS on the Kirtonos-US Server.
   
 Adds guild class/spec raid loot priority to ingame item tooltip. 
 
