@@ -15,15 +15,9 @@ local function addLootInfo(tooltip)
 	if itemnote then
 	  note = string.format("|c008aecff %s", itemnote)
 	  tooltip:AddLine(note)
---[[	else
-	  tooltip:AddLine("no tier prio") 
---]]
 	end
---[[
-  else
-    tooltip:AddLine("no loot prio") 
---]]  
   end
+  
 end
 
 GameTooltip:HookScript("OnTooltipSetItem", addLootInfo)
