@@ -75,7 +75,7 @@ MOARDOTS_loot_table = {
 {["loot_id"] = "19376", ["loot_name"] = "Archimtiros' Ring of Reckoning", ["prio"] = "Tank > *PVP*"},
 {["loot_id"] = "19379", ["loot_name"] = "Neltharion's Tear", ["prio"] = "Warlock = Mage > SPriest", ["note"] = "Warlock Tank prio"},
 {["loot_id"] = "19382", ["loot_name"] = "Pure Elementium Band", ["prio"] = "Healers"},
-{["loot_id"] = "19375", ["loot_name"] = "Mish'undare, Circlet of the Mind Flayer", ["prio"] = "Mage > Warlock = SPriest", ["note"] = "(Loot council)"},
+{["loot_id"] = "19375", ["loot_name"] = "Mish'undare, Circlet of the Mind Flayer", ["prio"] = "Mage = Warlock = SPriest", ["note"] = "(Loot council)"},
 {["loot_id"] = "19377", ["loot_name"] = "Prestor's Talisman of Connivery", ["prio"] = "Rogue = Hunter"},
 {["loot_id"] = "19356", ["loot_name"] = "Staff of the Shadow Flame", ["prio"] = "Warlock = Mage"},
 {["loot_id"] = "19364", ["loot_name"] = "Ashkandi, Greatsword of the Brotherhood", ["prio"] = "2H FWarrior = Hunters", ["note"] = "*PVP* item"},
