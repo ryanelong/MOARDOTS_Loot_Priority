@@ -1,8 +1,8 @@
-# MOARDOTS_Loot_Priority
+# MOAR DOTS Loot Priority Tooltip
 
 This is a WoW Classic Addon for use by the Guild MOAR DOTS on the Kirtonos-US Server.
   
-Adds guild class/spec raid loot priority to ingame item tooltip. 
+Adds guild class/spec raid loot priority to in-game item tooltip. 
 
 This addon adds MD loot prio to item tooltip for loot that have priority on it, so you can access guild raid loot information while ingame.
 
