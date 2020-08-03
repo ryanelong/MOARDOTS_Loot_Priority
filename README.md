@@ -1,0 +1,1 @@
+# MOARDOTS_Loot_Priority
