@@ -2,7 +2,7 @@
 ## Title: MOAR DOTS - Loot Priority
 ## Notes: MD Guild loot priorities are shown in item tooltips
 ## Author: Phoenixdoe
-## Version: 1.0
+## Version: 1.0.2
 
 loot_table.lua
 main_functions.lua
